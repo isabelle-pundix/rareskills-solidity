@@ -15,7 +15,7 @@ contract Fibonacci {
         uint256 a = 0;
         uint256 b = 1;
         
-        if (_position == 0){
+        if (_position == 0) {
             return a;
         }
 
